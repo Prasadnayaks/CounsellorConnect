@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320857733319",
+    "project_id": "counsellorconnect-4642a",
+    "storage_bucket": "counsellorconnect-4642a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320857733319:android:1323c7b5adf6cd85f1e6e2",
+        "android_client_info": {
+          "package_name": "com.example.counsellorconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC41y9e4oZ0OmZ7juh6ZrQ9x_eMZd7EsuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

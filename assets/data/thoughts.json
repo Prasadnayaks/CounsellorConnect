@@ -1,0 +1,663 @@
+[
+  {
+    "id": "local_quote_101",
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "Motivation"
+  },
+  {
+    "id": "local_quote_102",
+    "text": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein",
+    "category": "Wisdom"
+  },
+  {
+    "id": "local_quote_103",
+    "text": "The mind is everything. What you think you become.",
+    "author": "Buddha",
+    "category": "Mindfulness"
+  },
+  {
+    "id": "local_quote_104",
+    "text": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "category": "Motivation"
+  },
+  {
+    "id": "local_quote_105",
+    "text": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "Inspiration"
+  },
+  {
+    "id": "local_quote_106",
+    "text": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "Individuality"
+  },
+  {
+    "id": "local_quote_107",
+    "text": "The journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu",
+    "category": "Perseverance"
+  },
+  {
+    "id": "local_quote_108",
+    "text": "Act as if what you do makes a difference. It does.",
+    "author": "William James",
+    "category": "Impact"
+  },
+  {
+    "id": "local_quote_109",
+    "text": "Happiness is not something readymade. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "category": "Happiness"
+  },
+  {
+    "id": "local_quote_110",
+    "text": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "Belief"
+  },
+
+  {
+    "id": "local_quote_001",
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "Motivation"
+  },
+  {
+    "id": "local_quote_002",
+    "text": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein",
+    "category": "Wisdom"
+  },
+  {
+    "id": "local_quote_003",
+    "text": "The mind is everything. What you think you become.",
+    "author": "Buddha",
+    "category": "Mindfulness"
+  },
+  {
+    "id": "local_quote_004",
+    "text": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "category": "Life"
+  },
+  {
+    "id": "local_quote_005",
+    "text": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "Inspiration"
+  },
+  {
+    "id": "local_quote_006",
+    "text": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "Individuality"
+  },
+  {
+    "id": "local_quote_007",
+    "text": "The journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu",
+    "category": "Perseverance"
+  },
+  {
+    "id": "local_quote_008",
+    "text": "Act as if what you do makes a difference. It does.",
+    "author": "William James",
+    "category": "Impact"
+  },
+  {
+    "id": "local_quote_009",
+    "text": "Happiness is not something readymade. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "category": "Happiness"
+  },
+  {
+    "id": "local_quote_010",
+    "text": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "Belief"
+  },
+  {
+    "id": "local_quote_011",
+    "text": "The only impossible journey is the one you never begin.",
+    "author": "Tony Robbins",
+    "category": "Motivation"
+  },
+  {
+    "id": "local_quote_012",
+    "text": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "Opportunity"
+  },
+  {
+    "id": "local_quote_013",
+    "text": "You must be the change you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "category": "Change"
+  },
+  {
+    "id": "local_quote_014",
+    "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "author": "Ralph Waldo Emerson",
+    "category": "Potential"
+  },
+  {
+    "id": "local_quote_015",
+    "text": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "Happiness"
+  },
+  {
+    "id": "local_quote_016",
+    "text": "Life is what happens when you’re busy making other plans.",
+    "author": "John Lennon",
+    "category": "Life"
+  },
+  {
+    "id": "local_quote_017",
+    "text": "Get busy living or get busy dying.",
+    "author": "Stephen King",
+    "category": "Action"
+  },
+  {
+    "id": "local_quote_018",
+    "text": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West",
+    "category": "Life"
+  },
+  {
+    "id": "local_quote_019",
+    "text": "Many of life’s failures are people who did not realize how close they were to success when they gave up.",
+    "author": "Thomas A. Edison",
+    "category": "Perseverance"
+  },
+  {
+    "id": "local_quote_020",
+    "text": "If you want to live a happy life, tie it to a goal, not to people or things.",
+    "author": "Albert Einstein",
+    "category": "Goals"
+  },
+  {
+    "id": "local_quote_021",
+    "text": "Never let the fear of striking out keep you from playing the game.",
+    "author": "Babe Ruth",
+    "category": "Courage"
+  },
+  {
+    "id": "local_quote_022",
+    "text": "Money and success don’t change people; they merely amplify what is already there.",
+    "author": "Will Smith",
+    "category": "Character"
+  },
+  {
+    "id": "local_quote_023",
+    "text": "Your time is limited, don’t waste it living someone else’s life. Don’t be trapped by dogma – which is living with the results of other people’s thinking.",
+    "author": "Steve Jobs",
+    "category": "Individuality"
+  },
+  {
+    "id": "local_quote_024",
+    "text": "Not how long, but how well you have lived is the main thing.",
+    "author": "Seneca",
+    "category": "Life"
+  },
+  {
+    "id": "local_quote_025",
+    "text": "If life were predictable it would cease to be life, and be without flavor.",
+    "author": "Eleanor Roosevelt",
+    "category": "Adventure"
+  },
+  {
+    "id": "local_quote_026",
+    "text": "The whole secret of a successful life is to find out what is one’s destiny to do, and then do it.",
+    "author": "Henry Ford",
+    "category": "Purpose"
+  },
+  {
+    "id": "local_quote_027",
+    "text": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde",
+    "category": "Living"
+  },
+  {
+    "id": "local_quote_028",
+    "text": "Go confidently in the direction of your dreams! Live the life you’ve imagined.",
+    "author": "Henry David Thoreau",
+    "category": "Dreams"
+  },
+  {
+    "id": "local_quote_029",
+    "text": "The unexamined life is not worth living.",
+    "author": "Socrates",
+    "category": "Wisdom"
+  },
+  {
+    "id": "local_quote_030",
+    "text": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey",
+    "category": "Resilience"
+  },
+  {
+    "id": "local_quote_031",
+    "text": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney",
+    "category": "Action"
+  },
+  {
+    "id": "local_quote_032",
+    "text": "Don't cry because it's over, smile because it happened.",
+    "author": "Dr. Seuss",
+    "category": "Perspective"
+  },
+  {
+    "id": "local_quote_033",
+    "text": "Everything you can imagine is real.",
+    "author": "Pablo Picasso",
+    "category": "Imagination"
+  },
+  {
+    "id": "local_quote_034",
+    "text": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "category": "Simplicity"
+  },
+  {
+    "id": "local_quote_035",
+    "text": "Whatever you are, be a good one.",
+    "author": "Abraham Lincoln",
+    "category": "Excellence"
+  },
+  {
+    "id": "local_quote_036",
+    "text": "Problems are not stop signs, they are guidelines.",
+    "author": "Robert H. Schuller",
+    "category": "Resilience"
+  },
+  {
+    "id": "local_quote_037",
+    "text": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "category": "Courage"
+  },
+  {
+    "id": "local_quote_038",
+    "text": "It is never too late to be what you might have been.",
+    "author": "George Eliot",
+    "category": "Hope"
+  },
+  {
+    "id": "local_quote_039",
+    "text": "The only source of knowledge is experience.",
+    "author": "Albert Einstein",
+    "category": "Experience"
+  },
+  {
+    "id": "local_quote_040",
+    "text": "You will face many defeats in life, but never let yourself be defeated.",
+    "author": "Maya Angelou",
+    "category": "Strength"
+  },
+  {
+    "id": "local_quote_041",
+    "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela",
+    "category": "Resilience"
+  },
+  {
+    "id": "local_quote_042",
+    "text": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "category": "Adventure"
+  },
+  {
+    "id": "local_quote_043",
+    "text": "Life is really simple, but we insist on making it complicated.",
+    "author": "Confucius",
+    "category": "Simplicity"
+  },
+  {
+    "id": "local_quote_044",
+    "text": "May you live all the days of your life.",
+    "author": "Jonathan Swift",
+    "category": "Living"
+  },
+  {
+    "id": "local_quote_045",
+    "text": "Life itself is the most wonderful fairy tale.",
+    "author": "Hans Christian Andersen",
+    "category": "Wonder"
+  },
+  {
+    "id": "local_quote_046",
+    "text": "Do not let making a living prevent you from making a life.",
+    "author": "John Wooden",
+    "category": "Balance"
+  },
+  {
+    "id": "local_quote_047",
+    "text": "Keep smiling, because life is a beautiful thing and there’s so much to smile about.",
+    "author": "Marilyn Monroe",
+    "category": "Positivity"
+  },
+  {
+    "id": "local_quote_048",
+    "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "Courage"
+  },
+  {
+    "id": "local_quote_049",
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "Action"
+  },
+  {
+    "id": "local_quote_050",
+    "text": "It’s not whether you get knocked down, it’s whether you get up.",
+    "author": "Vince Lombardi",
+    "category": "Resilience"
+  },
+  {
+    "id": "local_quote_051",
+    "text": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+    "author": "Thomas A. Edison",
+    "category": "Perseverance"
+  },
+  {
+    "id": "local_quote_052",
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "category": "Dreams"
+  },
+  {
+    "id": "local_quote_053",
+    "text": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "category": "Perseverance"
+  },
+  {
+    "id": "local_quote_054",
+    "text": "You miss 100% of the shots you don’t take.",
+    "author": "Wayne Gretzky",
+    "category": "Opportunity"
+  },
+  {
+    "id": "local_quote_055",
+    "text": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "category": "Success"
+  },
+  {
+    "id": "local_quote_056",
+    "text": "I have not failed. I've just found 10,000 ways that won't work.",
+    "author": "Thomas A. Edison",
+    "category": "Perspective"
+  },
+  {
+    "id": "local_quote_057",
+    "text": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein",
+    "category": "Growth"
+  },
+  {
+    "id": "local_quote_058",
+    "text": "What seems to us as bitter trials are often blessings in disguise.",
+    "author": "Oscar Wilde",
+    "category": "Perspective"
+  },
+  {
+    "id": "local_quote_059",
+    "text": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt",
+    "category": "Action"
+  },
+  {
+    "id": "local_quote_060",
+    "text": "The mind is like a parachute, it doesn't work if it is not open.",
+    "author": "Frank Zappa",
+    "category": "Openness"
+  },
+  {
+    "id": "local_quote_061",
+    "text": "Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible.",
+    "author": "Francis of Assisi",
+    "category": "Progress"
+  },
+  {
+    "id": "local_quote_062",
+    "text": "The power of imagination makes us infinite.",
+    "author": "John Muir",
+    "category": "Imagination"
+  },
+  {
+    "id": "local_quote_063",
+    "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "author": "Aristotle",
+    "category": "Habit"
+  },
+  {
+    "id": "local_quote_064",
+    "text": "An unexamined faith is not worth having.",
+    "author": "Unknown",
+    "category": "Reflection"
+  },
+  {
+    "id": "local_quote_065",
+    "text": "Kindness is a language which the deaf can hear and the blind can see.",
+    "author": "Mark Twain",
+    "category": "Kindness"
+  },
+  {
+    "id": "local_quote_066",
+    "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "Belief"
+  },
+  {
+    "id": "local_quote_067",
+    "text": "To improve is to change; to be perfect is to change often.",
+    "author": "Winston Churchill",
+    "category": "Growth"
+  },
+  {
+    "id": "local_quote_068",
+    "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+    "author": "Zig Ziglar",
+    "category": "Personal Growth"
+  },
+  {
+    "id": "local_quote_069",
+    "text": "If you are working on something that you really care about, you don’t have to be pushed. The vision pulls you.",
+    "author": "Steve Jobs",
+    "category": "Passion"
+  },
+  {
+    "id": "local_quote_070",
+    "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "author": "Chinese Proverb",
+    "category": "Opportunity"
+  },
+  {
+    "id": "local_quote_071",
+    "text": "Your attitude, not your aptitude, will determine your altitude.",
+    "author": "Zig Ziglar",
+    "category": "Attitude"
+  },
+  {
+    "id": "local_quote_072",
+    "text": "We must let go of the life we have planned, so as to accept the one that is waiting for us.",
+    "author": "Joseph Campbell",
+    "category": "Acceptance"
+  },
+  {
+    "id": "local_quote_073",
+    "text": "The difference between ordinary and extraordinary is that little extra.",
+    "author": "Jimmy Johnson",
+    "category": "Excellence"
+  },
+  {
+    "id": "local_quote_074",
+    "text": "You don't have to be great to start, but you have to start to be great.",
+    "author": "Zig Ziglar",
+    "category": "Action"
+  },
+  {
+    "id": "local_quote_075",
+    "text": "It is during our darkest moments that we must focus to see the light.",
+    "author": "Aristotle Onassis",
+    "category": "Hope"
+  },
+  {
+    "id": "local_quote_076",
+    "text": "The only true wisdom is in knowing you know nothing.",
+    "author": "Socrates",
+    "category": "Humility"
+  },
+  {
+    "id": "local_quote_077",
+    "text": "To handle yourself, use your head; to handle others, use your heart.",
+    "author": "Eleanor Roosevelt",
+    "category": "Empathy"
+  },
+  {
+    "id": "local_quote_078",
+    "text": "No act of kindness, no matter how small, is ever wasted.",
+    "author": "Aesop",
+    "category": "Kindness"
+  },
+  {
+    "id": "local_quote_079",
+    "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+    "author": "Helen Keller",
+    "category": "Love"
+  },
+  {
+    "id": "local_quote_080",
+    "text": "Keep your face always toward the sunshine, and shadows will fall behind you.",
+    "author": "Walt Whitman",
+    "category": "Positivity"
+  },
+  {
+    "id": "local_quote_081",
+    "text": "What we achieve inwardly will change outer reality.",
+    "author": "Plutarch",
+    "category": "Mindfulness"
+  },
+  {
+    "id": "local_quote_082",
+    "text": "The harder the conflict, the more glorious the triumph.",
+    "author": "Thomas Paine",
+    "category": "Perseverance"
+  },
+  {
+    "id": "local_quote_083",
+    "text": "You are never too old to set another goal or to dream a new dream.",
+    "author": "C.S. Lewis",
+    "category": "Dreams"
+  },
+  {
+    "id": "local_quote_084",
+    "text": "In three words I can sum up everything I've learned about life: it goes on.",
+    "author": "Robert Frost",
+    "category": "Life"
+  },
+  {
+    "id": "local_quote_085",
+    "text": "Change your thoughts and you change your world.",
+    "author": "Norman Vincent Peale",
+    "category": "Mindset"
+  },
+  {
+    "id": "local_quote_086",
+    "text": "With the new day comes new strength and new thoughts.",
+    "author": "Eleanor Roosevelt",
+    "category": "Renewal"
+  },
+  {
+    "id": "local_quote_087",
+    "text": "The secret of change is to focus all of your energy, not on fighting the old, but on building the new.",
+    "author": "Socrates",
+    "category": "Change"
+  },
+  {
+    "id": "local_quote_088",
+    "text": "Well done is better than well said.",
+    "author": "Benjamin Franklin",
+    "category": "Action"
+  },
+  {
+    "id": "local_quote_089",
+    "text": "A creative man is motivated by the desire to achieve, not by the desire to beat others.",
+    "author": "Ayn Rand",
+    "category": "Creativity"
+  },
+  {
+    "id": "local_quote_090",
+    "text": "I can't change the direction of the wind, but I can adjust my sails to always reach my destination.",
+    "author": "Jimmy Dean",
+    "category": "Adaptability"
+  },
+  {
+    "id": "local_quote_091",
+    "text": "Perfection is not attainable, but if we chase perfection we can catch excellence.",
+    "author": "Vince Lombardi",
+    "category": "Excellence"
+  },
+  {
+    "id": "local_quote_092",
+    "text": "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.",
+    "author": "Oprah Winfrey",
+    "category": "Gratitude"
+  },
+  {
+    "id": "local_quote_093",
+    "text": "Life is 10% what happens to us and 90% how we react to it.",
+    "author": "Charles R. Swindoll",
+    "category": "Attitude"
+  },
+  {
+    "id": "local_quote_094",
+    "text": "There is only one corner of the universe you can be certain of improving, and that's your own self.",
+    "author": "Aldous Huxley",
+    "category": "Self-Improvement"
+  },
+  {
+    "id": "local_quote_095",
+    "text": "The successful warrior is the average man, with laser-like focus.",
+    "author": "Bruce Lee",
+    "category": "Focus"
+  },
+  {
+    "id": "local_quote_096",
+    "text": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle",
+    "category": "Self-Awareness"
+  },
+  {
+    "id": "local_quote_097",
+    "text": "The roots of education are bitter, but the fruit is sweet.",
+    "author": "Aristotle",
+    "category": "Education"
+  },
+  {
+    "id": "local_quote_098",
+    "text": "A goal without a plan is just a wish.",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Planning"
+  },
+  {
+    "id": "local_quote_099",
+    "text": "To find yourself, think for yourself.",
+    "author": "Socrates",
+    "category": "Individuality"
+  },
+  {
+    "id": "local_quote_100",
+    "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+    "author": "Edmund Burke",
+    "category": "Responsibility"
+  }
+]

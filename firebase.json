@@ -1,0 +1,41 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "counsellorconnect-4642a",
+          "appId": "1:320857733319:android:1323c7b5adf6cd85f1e6e2",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "counsellorconnect-4642a",
+          "configurations": {
+            "android": "1:320857733319:android:1323c7b5adf6cd85f1e6e2",
+            "ios": "1:320857733319:ios:575fd54db148be14f1e6e2",
+            "macos": "1:320857733319:ios:575fd54db148be14f1e6e2",
+            "web": "1:320857733319:web:1f21e3906de7a52cf1e6e2",
+            "windows": "1:320857733319:web:7d9126999d612439f1e6e2"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+        "npm --prefix \"$RESOURCE_DIR\" run lint"
+      ]
+    }
+  ]
+}

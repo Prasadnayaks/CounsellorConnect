@@ -23,9 +23,7 @@ CounsellorConnect is a comprehensive Flutter application designed to foster ment
 * **Customizable Themes & Notifications:** Personalize the app's appearance and set reminders for check-ins and positivity.
 * **Statistics:** View mood trends and insights.
 
-* ![User_Demo](./assets/user.mp4)
-
-* ![User_Demo](./assets/user_for_readme.gif)
+![User_Demo](./assets/user_for_readme.gif)
 
 **For Counselors:**
 
@@ -35,7 +33,7 @@ CounsellorConnect is a comprehensive Flutter application designed to foster ment
 * **Private Journal:** A dedicated space for counselors' own notes and reflections.
 * **Profile Management:** Update professional details, specialization, and description.
 
-* ![Counsellor_Demo](./assets/counsellor.mp4)
+![Counsellor_Demo](./assets/counsellor.gif)
 
 ## 🛠️ Tech Stack
 

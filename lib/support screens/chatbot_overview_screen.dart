@@ -153,6 +153,7 @@ class _ChatbotOverviewScreenState extends State<ChatbotOverviewScreen> {
     );
   }
 
+
   // Renamed navigation method
   void _navigateToSelfCareItemDetail(BuildContext context, SelfCareItem item) {
     if (item.id == 'general_assistant') { // Check for the specific ID

@@ -25,6 +25,8 @@ CounsellorConnect is a comprehensive Flutter application designed to foster ment
 
 * ![User_Demo](./assets/user.mp4)
 
+* ![User_Demo](./assets/user_for_readme.gif)
+
 **For Counselors:**
 
 * **Dashboard:** Manage appointment requests (approve/decline), view upcoming and past sessions.
